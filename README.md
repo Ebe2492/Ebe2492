@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  ![Express.js](https://img.shields.io/badge/-express-333333?style=flat&logo=express&logoColor=1572B6)
 
 
 - 🛢 &nbsp;
