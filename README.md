@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Bachelors  mathematics and Completed MERN stack development course.
-- 💼 &nbsp; fresher > Actively looking for a job.
+- 💼 &nbsp; fresher - Actively looking for a job.
 - 🌱 &nbsp; Learning more Web development and UI/UX.
 - ✍️ &nbsp; Pursuing full-stack development and Web designing as hobbies/side hustles.
 
